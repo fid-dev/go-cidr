@@ -1,1 +1,1 @@
-module github.com/apparentlymart/go-cidr
+module github.com/fid-dev/go-cidr
